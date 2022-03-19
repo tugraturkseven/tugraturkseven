@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tugraturkseven
-- 👀 I’m interested in Web Development and Mobile Programming.
+- 👀 I’m interested in Web Development Technologies.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me tugraturkseven@hotmail.com
 
