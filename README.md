@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tugraturkseven
 - 👀 I’m interested in Web Development Technologies.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me contact@tugraturkseven.com
 - ⭐ Check out my Youtube channel for more: www.youtube.com/tugraturkseven
 
